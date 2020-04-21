@@ -1,0 +1,32 @@
+[
+    {
+        "Name":"Zercher Squat",
+        "Type":["Legs"],
+        "Reps":[10,20]
+    },
+    {
+        "Name":"Overhead Weighted Situps",
+        "Type":["Core"],
+        "Reps":[10,20]
+    },
+    {
+        "Name":"Front Squat and Press",
+        "Type":["Legs", "Shoulders"],
+        "Reps":[10,20]
+    },
+    {
+        "Name":"Overhead Walking Lunge",
+        "Type":["Legs"],
+        "Reps":[10,20]
+    },
+    {
+        "Name":"Push Ups",
+        "Type":["Chest"],
+        "Reps":[10,20]
+    },
+    {
+        "Name":"Planks",
+        "Type":["Core"],
+        "Reps":[60,120]
+    }
+]
