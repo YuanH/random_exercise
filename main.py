@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from herlper import *
+from helper import *
 
 if __name__ == "__main__":
     exercises=load_exercises()
