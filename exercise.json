@@ -2,41 +2,55 @@
     {
         "Name":"Zercher/Goblet Squat",
         "Type":["Legs"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[3,4]
     },
     {
         "Name":"Overhead Weighted Situps",
         "Type":["Core"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[3,4]
     },
     {
         "Name":"Front Squat and Press (Thrusters)",
         "Type":["Legs", "Shoulders"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[3,4]
     },
     {
         "Name":"Overhead Walking Lunge",
         "Type":["Legs"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[3,4]
     },
     {
         "Name":"Push Ups",
         "Type":["Chest"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[2,4]
     },
     {
         "Name":"Plank",
         "Type":["Core"],
-        "Reps":[60,120]
+        "Reps":[60,120],
+        "Sets":[6,6]
     },
     {
         "Name":"Side Plank",
         "Type":["Core"],
-        "Reps":[30,60]
+        "Reps":[30,60],
+        "Sets":[6,6]
     },
     {
         "Name":"Front Raise",
         "Type":["Shoulders"],
-        "Reps":[10,20]
+        "Reps":[10,20],
+        "Sets":[2,4]
+    },
+    {
+        "Name":"Kettlebell Swing",
+        "Type":["Full Body"],
+        "Reps":[20,30],
+        "Sets":[2,3]
     }
 ]
