@@ -52,5 +52,59 @@
         "Type":["Full Body"],
         "Reps":[20,30],
         "Sets":[2,3]
+    },
+    {
+        "Name":"Table Row/Table Pull-Up",
+        "Type":["Back"],
+        "Reps":[12,15],
+        "Sets":[3]
+    },
+    {
+        "Name":"Table Row/Table Chin-Up",
+        "Type":["Back"],
+        "Reps":[12,15],
+        "Sets":[3]
+    },
+    {
+        "Name":"Lawnmower Rows",
+        "Type":["Back"],
+        "Reps":[20,30],
+        "Sets":[2,3]
+    },
+    {
+        "Name":"Plank Shoulder Taps",
+        "Type":["Core", "Shoulders", "Chest", "Arms"],
+        "Reps":[20,30],
+        "Sets":[2,3]
+    },
+    {
+        "Name":"Lawnmower Rows",
+        "Type":["Back"],
+        "Reps":[20,30],
+        "Sets":[2,3]
+    },
+    {
+        "Name":"Chair Dips",
+        "Type":["Triceps"],
+        "Reps":[20,30],
+        "Sets":[2,3]
+    },
+    {
+        "Name":"Reverse Sit Up",
+        "Type":["Core"],
+        "Reps":[20,30],
+        "Sets":[3,4]
+    },
+    {
+        "Name":"Two Chair L Sits",
+        "Type":["Core"],
+        "Reps":[20,30],
+        "Sets":[2,3]
+    },
+    {
+        "Name":"High to Low Plank",
+        "Type":["Core", "Shoulder", "Triceps", "Chest"],
+        "Reps":[20,30],
+        "Sets":[2,3]
     }
 ]
